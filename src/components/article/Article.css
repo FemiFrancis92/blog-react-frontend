@@ -1,0 +1,9 @@
+.article{
+    color: blue;
+    text-align: center;
+}
+.like{
+   width : 50px;
+   height: 20px;
+   cursor: pointer;
+}
